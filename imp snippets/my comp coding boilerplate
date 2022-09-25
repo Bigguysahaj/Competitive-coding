@@ -1,12 +1,12 @@
 #include <bits/stdc++.h>
 using namespace std;
 
-#define anant se bhi aage ios::sync_with_stdio(false);cin.tie(0);
+#define anant_se_bhi_aage ios::sync_with_stdio(false);cin.tie(0);
 #define ll long long
 
 
 int main() {
-    anant se bhi aage;
+    anant_se_bhi_aage;
     int test;
     cin >> test;
     while(test--)
